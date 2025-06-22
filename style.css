@@ -259,7 +259,7 @@ p {
 .side-text {
     border-radius:10px;
     box-shadow:0px 0px 5px rgba(78, 78, 78, 0.1);
-    border:1px solid #ffffff;
+    border:1px solid #000001;
     overflow:hidden;
     margin-bottom:10px;
 }
