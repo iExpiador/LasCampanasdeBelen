@@ -382,3 +382,11 @@ img.tumblr_avatar {
     opacity:50%;
     margin-left:10px;
 }
+
+.icon-center {
+    margin-top: 10px; /* espacio arriba */
+    text-align: center;
+}
+.icon-center a {
+    display: inline-block;
+}
